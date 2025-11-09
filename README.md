@@ -1,2 +1,2 @@
 ## mnist-cuda
-A simple MLP implementation from scratch is CUDA/ C++
+A simple MNIST classifier implementation from scratch in CUDA/ C++
