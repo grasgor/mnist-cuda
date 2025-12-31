@@ -14,7 +14,7 @@ find_package(Torch REQUIRED)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR})
 
 add_executable(train_cpu_mnist
-    main.cpp
+    train.cpp
     forward_functions.cpp
     backward_functions.cpp
 )
